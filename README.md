@@ -1,6 +1,6 @@
 ## 📄 View Project PDF
 
-[Click here to open the Netflix Data Analysis project](./netflix_analysis%20project%2024b81a67l3.pdf)
+[Click here to open the Netflix Data Analysis project](netflix_analysis_project.pdf)
 
 
 
