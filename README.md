@@ -1,5 +1,14 @@
+## 📄 View Project PDF
+
+[Click here to open the Netflix Data Analysis project](./netflix_analysis%20project%2024b81a67l3.pdf)
+
+
+
+
+
 # netflix-analysis
-My first data science project analyzing Netflix data using Python
+This is my first data science project where I analyzed Netflix Movies and TV Shows using Python, Pandas, and Matplotlib in Google Colab.
+
 # Netflix Data Analysis 
 
 This is my first data science project. I used Python, Pandas, and Matplotlib in Google Colab to analyze Netflix data.
